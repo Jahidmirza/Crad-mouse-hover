@@ -55,6 +55,8 @@ img
     height: 300px;
     width: 100%;
     position: relative;
+    object-fit: contain;
+    object-position: center;
 }
 .crdImg::before
 {
